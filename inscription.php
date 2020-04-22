@@ -123,7 +123,6 @@ if(isset($_POST['forminscription']))
 						id="mdp2" 
 						name="mdp2" />
 					</td>
-
 				</tr>
 				<tr>
 					<td></td>
