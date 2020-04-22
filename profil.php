@@ -20,7 +20,11 @@ if(isset($_GET['id']) AND $_GET['id'] > 0)
 </head>
 <body>
 	<div align="center">
-		<h3>Profil de <?php echo $userinfo['pseudo'] ?></h3>
+		<style type="text/css"> h1{color:red ;} </style>
+		<style type="text/css"> body {background-color:#C5F6CA ;}</style>
+		<style type="text/css"> p {color:#547F80 </style>
+		<style type="text/css"> a { color: blue; } </style>
+		<h1>Profil de <?php echo $userinfo['pseudo'] ?></h1>
 		<br /><br />
 		Pseudo = <?php echo $userinfo['pseudo'] ?>
 		<br />
