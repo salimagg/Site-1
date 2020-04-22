@@ -65,7 +65,8 @@ if(isset($_POST['forminscription']))
 </head>
 <body>
 	<div align="center">
-		<h3>Inscription</h3>
+		<style type="text/css"> h2{color:red ;} </style>
+		<h2>Inscription</h2>
 		<br /><br />
 		<form method="POST" action="
 		">
